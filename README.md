@@ -6,5 +6,7 @@ American institutions1represent only 2.4% of the totalamount of participants of 
 
 We propose a Latin American \(LATAM\) New Interfaces for Musical Expression \(NIME\) Research Community. We aim to start a discussion and generate ideas around short-term actionable initiatives that a LATAM NIME Research Community could explore in the near future.
 
+Communication platforms for the community \(such asa mailing list, a Discord/Slack Workspace, a Tele-gram/WhatsApp group, a Forum, etc.\)• Define what can be hosted in the subdomainlatam.nime.org \(such as repositories for NIME re-lated projects, biographies of the members, a blog,tutorials, interviews, etc.\)• Regular events that can gather locally or remotely thecommunity \(such as a local NIME conference chap-ter, regular meetings, festivals, conferences, residencies,etc.\)• Creating a local NIME-related publication \(such as ajournal, magazine, conference proceedings, etc.\)• Creative projects to foster a LATAM NIME Commu-nity \(such as creating virtual space for meeting and shar-ing our contents, original artworks, apps, or platformsto connect the members of the community in differentways, etc.\)
+
 We lookforward to taking the first steps towards a LATAM NIMECommunity and the future of this community within andbeyond NIME, opening to other communities in LATAM,and stirring policy changes to support the development ofour local communities.
 
