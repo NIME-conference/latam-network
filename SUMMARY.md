@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## Actions
+## SBCM 2021 Workshop <a id="workshop"></a>
 
-* [Towards a LATAM NIME Network Workshop](actions/workshop.md)
+* [Towards a LATAM NIME Network Workshop](workshop/workshop.md)
 
