@@ -1,4 +1,4 @@
-# Bem-vindo
+# About
 
 Historically, Latin America \(LATAM\) has produced manymusics that have resonated around the world. Equally, ithas also significantly contributed and continues to con-tribute to the field of New Interfaces for Musical Expres-sion \(NIME\) \[1\]. Yet, the NIME conference has only beenhosted in LATAM once in 2019 at Porto Alegre, Brazil,where only 18 publications out of 88 were from LATAMauthors and co-authors \[2\], and authors affiliated to Latin
 
