@@ -1,6 +1,6 @@
 # Table of contents
 
-* [¿Quienes somos?](README.md)
+* [¿Quiénes somos?](README.md)
 
 ## Taller SBCM 2021 <a id="taller"></a>
 
