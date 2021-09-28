@@ -2,11 +2,11 @@
 
 * [¿Quienes somos?](README.md)
 
-## Taller SBCM 2021
+## Taller SBCM 2021 <a id="taller"></a>
 
-* [Inicio](taller-sbcm-2021/inicio.md)
-* [Código de Conducta](taller-sbcm-2021/cdc.md)
-* [Horario](taller-sbcm-2021/horario.md)
-* [Tópicos de Discusión](taller-sbcm-2021/topicos.md)
-* [Recursos](taller-sbcm-2021/recursos.md)
+* [Inicio](taller/inicio.md)
+* [Código de Conducta](taller/cdc.md)
+* [Horario](taller/horario.md)
+* [Tópicos de Discusión](taller/topicos.md)
+* [Recursos](taller/recursos.md)
 
