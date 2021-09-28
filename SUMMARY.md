@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Acerca de](README.md)
+* [¿Quienes somos?](README.md)
 
 ## Taller SBCM 2021
 
-* [Home](taller-sbcm-2021/untitled.md)
-* [Code of Conduct](taller-sbcm-2021/untitled-1.md)
-* [Schedule](taller-sbcm-2021/untitled-2.md)
-* [Discussion Topics](taller-sbcm-2021/untitled-3.md)
-* [Resources](taller-sbcm-2021/untitled-4.md)
+* [Inicio](taller-sbcm-2021/inicio.md)
+* [Código de Conducta](taller-sbcm-2021/cdc.md)
+* [Horario](taller-sbcm-2021/horario.md)
+* [Tópicos de Discusión](taller-sbcm-2021/topicos.md)
+* [Recursos](taller-sbcm-2021/recursos.md)
 
