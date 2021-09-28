@@ -1,7 +1,5 @@
 # Discussion Topics
 
-
-
 We propose a LATAM NIME Research Network, with which we aim to start a discussion and generate ideas around short-termed actionable initiatives that the network and the community could explore in the near future. Some of these actions include:
 
 * Establishing a LATAM NIME Network by: 
