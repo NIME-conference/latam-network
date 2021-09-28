@@ -1,9 +1,5 @@
 # Schedule
 
-## Schedule
-
-\(Dates and starting time goes here\)
-
 | **ACTIVITY** | **DURATION** | CHAIR |
 | :--- | :--- | :--- |
 | WELCOME | 10 mins | JUAN PABLO |
@@ -17,8 +13,4 @@
 | BREAK | 10 mins | ​ |
 | NEXT STEPS | 30 mins | ? |
 | CONCLUSION | 10 mins | ? |
-
-[SBCM 2021 Workshop - PreviousCode of Conduct](https://latam.nime.org/workshop/cofc)[Next - SBCM 2021 WorkshopDiscussion Topics](https://latam.nime.org/workshop/topics)
-
-Last updated 1 hour ago
 
