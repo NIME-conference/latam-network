@@ -10,9 +10,9 @@ description: '27th October 9:00-13:00 UTC–3 (BRT)'
 | INTRODUCTION | 30 mins | M. ORTIZ |
 | BREAK | 5 mins |  |
 | INTRO TO DISCUSSION | 5 mins | J. TRAGTENBERG |
-| THEME  +  BREAK | 30 + 5 mins | TBC |
-| THEME  +  BREAK | 30 + 5 mins | TBC |
-| THEME  +  BREAK | 30 + 10 mins | TBC |
+| THEME 1 +  BREAK | 30 + 5 mins | TBC |
+| THEME 2 +  BREAK | 30 + 5 mins | TBC |
+| THEME 3 +  BREAK | 30 + 10 mins | TBC |
 | PLENARY DISCUSSION | 30 mins | TBC |
 | BREAK | 10 mins |  |
 | NEXT STEPS | 30 mins | TBC |
