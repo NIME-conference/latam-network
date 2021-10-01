@@ -1,4 +1,4 @@
 # Resources
 
-\(Workshop slides here\)
+\(Workshop slides will be posted here soon\)
 
