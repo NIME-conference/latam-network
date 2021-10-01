@@ -6,7 +6,7 @@ With this network we also aim to take the first steps towards a LATAM NIME Commu
 
 ## Contact
 
-\(Add contacts here\)
+[Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
 
 
 

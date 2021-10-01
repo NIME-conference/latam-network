@@ -1,20 +1,20 @@
 ---
-description: (Dates and starting time goes here)
+description: '27th October 9:00-13:00 UTC–3 (BRT)'
 ---
 
 # Schedule
 
 | **ACTIVITY** | **DURATION** | CHAIR |
 | :--- | :--- | :--- |
-| WELCOME | 10 mins | JUAN PABLO |
-| INTRODUCTION | 30 mins | MIGUEL |
+| WELCOME | 10 mins | J.P. MARTINEZ |
+| INTRODUCTION | 30 mins | M. ORTIZ |
 | BREAK | 5 mins |  |
-| INTRO TO DISCUSSION | 5 mins | JOÃO |
-| THEME  +  BREAK | 30 + 5 mins | ? |
-| THEME  +  BREAK | 30 + 5 mins | ? |
-| THEME  +  BREAK | 30 + 10 mins | ? |
-| PLENARY DISCUSSION | 30 mins | ? |
+| INTRO TO DISCUSSION | 5 mins | J. TRAGTENBERG |
+| THEME  +  BREAK | 30 + 5 mins | TBC |
+| THEME  +  BREAK | 30 + 5 mins | TBC |
+| THEME  +  BREAK | 30 + 10 mins | TBC |
+| PLENARY DISCUSSION | 30 mins | TBC |
 | BREAK | 10 mins |  |
-| NEXT STEPS | 30 mins | ? |
-| CONCLUSION | 10 mins | ? |
+| NEXT STEPS | 30 mins | TBC |
+| CONCLUSION | 10 mins | TBC |
 
