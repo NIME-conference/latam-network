@@ -1,4 +1,4 @@
-# Tópicos de Discussão
+# Temas de Discussão
 
 Propomos uma Rede Latino-americana de Pesquisa NIME, com a qual pretendemos iniciar uma discussão e gerar ideias em torno de iniciativas viáveis a curto prazo a serem exploradas em um futuro próximo. Algumas dessas ações incluem:
 
@@ -12,7 +12,7 @@ Propomos uma Rede Latino-americana de Pesquisa NIME, com a qual pretendemos inic
 *   **Explorando as perspectivas do LATAM NIME:**
 
     * Descolonizando a pesquisa NIME
-    * Tornando o pesquisador NIME com mais disponibilidade e mais recursos
+    * Tornando a pesquisa NIME mais acessível economicamente
 
 
 * **Pensando nos próximos passos para o LATAM NIME:**

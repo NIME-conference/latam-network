@@ -1,7 +1,12 @@
+---
+description: 27 de OUTUBRO 9:00-13:00 UTC–3 (BRT)
+---
+
 # Cronograma
 
-| BOAS VINDAS         | 10 mins      | J.P. MARTINEZ     |
+| **ATIVIDADE**       | **DURAÇÃO**  | **LÍDER**         |
 | ------------------- | ------------ | ----------------- |
+| BOAS VINDAS         | 10 mins      | J.P. MARTINEZ     |
 | INTRODUÇÃO          | 30 mins      | M. ORTIZ          |
 | BREAK               | 5 mins       | ​                 |
 | INTRO TO DISCUSSION | 5 mins       | J. TRAGTENBERG    |

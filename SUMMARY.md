@@ -7,5 +7,5 @@
 * [Página Inicial](workshop/pagina-inicial.md)
 * [Código de Ética e Conduta](workshop/cdec.md)
 * [Cronograma](workshop/cronograma.md)
-* [Tópicos de Discussão](workshop/topicos.md)
+* [Temas de Discussão](workshop/temas.md)
 * [Recursos](workshop/recursos.md)
