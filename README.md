@@ -4,4 +4,8 @@ La Red de Investigación NIME Latinoamérica tiene como objetivo proveer un espa
 
 Con esta red pretendemos dar los primeros pasos hacia la creación de una comunidad NIME latinoamericana así como también consolidar el futuro de esta comunidad al interior y más allá de NIME, abriéndonos a otras comunidades de América Latina e inspirando cambios políticos para apoyar el desarrollo de nuestras comunidades locales.
 
+### Contacto
+
+[Juan Martinez Avila](mailto:psxjpma@nottingham.ac.uk)
+
 ​
