@@ -1,11 +1,12 @@
 ---
-description: (Dates and starting time goes here)
+description: 27 de Octubre 9:00-13:00 UTC–3 (BRT)
 ---
 
 # Horario
 
-| BIENVENIDA                  | 10 mins      | J.P. MARTINEZ     |
+| **ACTIVIDAD**               | **DURACIÓN** | **LÍDER**         |
 | --------------------------- | ------------ | ----------------- |
+| BIENVENIDA                  | 10 mins      | J.P. MARTINEZ     |
 | INTRODUCCIÓN                | 30 mins      | M. ORTIZ          |
 | DESCANSO                    | 5 mins       | ​                 |
 | INTRODUCCIÓN A LA DISCUSIÓN | 5 mins       | J. TRAGTENBERG    |
