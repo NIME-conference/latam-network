@@ -1,10 +1,7 @@
 # ¿Quiénes somos?
 
-The Latin American NIME Research Network aims to provide a space to share resources, tutorials, and repositories from members of the community, as well as to showcase their works. We also look forward to organising meet ups and events which we will share in this webpage and our communication platforms \(please contact the administrators to gain access to these platforms\).
+La Red de Investigación NIME Latinoamérica tiene como objetivo proveer un espacio para compartir recursos, tutoriales y repositorios para miembros de la comunidad, así como para visibilizar su trabajo. También buscamos organizar encuentros y eventos que serán comunicados en esta página y mediante nuestras plataformas de comunicación (por favor, contactar a los administradores para acceder a estas plataformas).
 
-With this network we also aim to take the first steps towards a LATAM NIME Community and the future of this community within and beyond NIME, opening to other communities in LATAM, and stirring policy changes to support the development of our local communities.
-
-\(Add contacts here\)
+Con esta red pretendemos dar los primeros pasos hacia la creación de una comunidad NIME latinoamericana así como también consolidar el futuro de esta comunidad al interior y más allá de NIME, abriéndonos a otras comunidades de América Latina e inspirando cambios políticos para apoyar el desarrollo de nuestras comunidades locales.
 
 ​
-

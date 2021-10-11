@@ -1,27 +1,26 @@
 # Código de Conducta
 
-We aim to have an inclusive, respectful and productive online workshop, in which we generate many useful ideas together whilst remotely. To achieve this we ask you to**:**
+Nos proponemos tener un taller/workshop productivo, inclusivo y respetuoso, en el cual generar múltiples ideas útiles, tanto juntos como en forma remota. Para lograr esto te pedimos: 
 
-* Use an appropriate username so that we can identify you by your name \(Please avoid alias or nicknames like 'Tiger123'\).
-* Raise your hand and respect people’s turns to speak.
-* Mute your microphone unless it is your turn to speak to avoid noise.
-* When your camera is on, make sure you are facing the camera, visible, with good lightning and background.
-* Avoid using offensive language. Any kind of harassment, bullying or hateful speech will not be tolerated.
+* Usar un nombre de usuario apropiado que permita identificarte por tu nombre (por favor evitar alias o nicknames como ‘Tigre123´) 
+* Pide la palabra levantando la mano y respeta el turno de otros para hablar.
+* Para evitar ruidos, silencia tu micrófono a menos que sea tu turno de hablar. 
+* Cuando tu cámara esté prendida, asegúrate de que estás de frente a ella, visible y con una buena iluminación y fondo. 
+* Evita usar lenguaje ofensivo. No se tolerará ningún tipo de acoso, intimidación, comportamiento agresivo o lenguaje de odio.
 
-## A multi-lingual workshop <a id="a-multi-lingual-workshop"></a>
+## Un taller multilingüe <a href="a-multi-lingual-workshop" id="a-multi-lingual-workshop"></a>
 
-For inclusivity we will facilitate people’s expression in their native language. We have a few trilingual moderators \(proficient in English, Portuguese, and Spanish\) so **support for simultaneous translation is limited, and not possible beyond these three languages.**
+Con fines de inclusividad se facilitará la comunicación de los participantes en su lenguaje nativo. Habrán algunos moderadores trilingües (competentes en inglés, portugués y español) por lo que el **soporte para traducción simultánea será limitado, y no será posible más allá de estos tres lenguajes.**
 
-**If you choose to speak your native language we ask you to please:**
+** Si eliges comunicarte en tu lenguaje nativo, por favor te pedimos:**
 
-* Speak at a moderate pace
-* Avoid colloquial language
-* Ask others if what you said was clear
-* Allow the translator to intervene if necessary
+* Habla con un ritmo moderado 
+* Evita usar lenguaje coloquial 
+* Pregunta a los demás participantes si te entendieron con claridad
+* Permite intervenir al traductor de ser necesario
 
-**If you have trouble understanding someone’s native language:**
+**Si tienes inconvenientes entendiendo el lenguaje nativo de otros participantes: **
 
-* Do not interrupt the speaker
-* Raise your hand
-* Type “translation please” in the chat
-
+* No interrumpas a quien está hablando 
+* Levanta la mano 
+* Escribe “traducción por favor” en el chat** **

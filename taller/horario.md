@@ -4,17 +4,15 @@ description: (Dates and starting time goes here)
 
 # Horario
 
-| **ACTIVITY** | **DURATION** | CHAIR |
-| :--- | :--- | :--- |
-| WELCOME | 10 mins | JUAN PABLO |
-| INTRODUCTION | 30 mins | MIGUEL |
-| BREAK | 5 mins | ​ |
-| INTRO TO DISCUSSION | 5 mins | JOÃO |
-| THEME + BREAK | 30 + 5 mins | ? |
-| THEME + BREAK | 30 + 5 mins | ? |
-| THEME + BREAK | 30 + 10 mins | ? |
-| PLENARY DISCUSSION | 30 mins | ? |
-| BREAK | 10 mins | ​ |
-| NEXT STEPS | 30 mins | ? |
-| CONCLUSION | 10 mins | ? |
-
+| BIENVENIDA                  | 10 mins      | J.P. MARTINEZ     |
+| --------------------------- | ------------ | ----------------- |
+| INTRODUCCIÓN                | 30 mins      | M. ORTIZ          |
+| DESCANSO                    | 5 mins       | ​                 |
+| INTRODUCCIÓN A LA DISCUSIÓN | 5 mins       | J. TRAGTENBERG    |
+| TEMA 1 + DESCANSO           | 30 + 5 mins  | A. MARQUEZ-BORBON |
+| TEMA 2 + DESCANSO           | 30 + 5 mins  | P. CADAVID        |
+| TEMA 3 + DESCANSO           | 30 + 10 mins | J. JAIMOVICH      |
+| DISCUSIÓN PLENARIA          | 30 mins      | J. TRAGTENBERG    |
+| DESCANSO                    | 10 mins      | ​                 |
+| PRÓXIMOS PASOS              | 30 mins      | M. ORTIZ          |
+| CONCLUSIÓN                  | 10 mins      | J.P. MARTINEZ     |

@@ -1,4 +1,3 @@
 # Recursos
 
-\(Slides go here\)
-
+Las diapositivas del workshop serán compartidas aquí próximamente.
