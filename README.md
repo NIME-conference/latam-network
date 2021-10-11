@@ -1,10 +1,9 @@
-# About
+# Sobre
 
-Historically, Latin America \(LATAM\) has produced manymusics that have resonated around the world. Equally, ithas also significantly contributed and continues to con-tribute to the field of New Interfaces for Musical Expres-sion \(NIME\) \[1\]. Yet, the NIME conference has only beenhosted in LATAM once in 2019 at Porto Alegre, Brazil,where only 18 publications out of 88 were from LATAMauthors and co-authors \[2\], and authors affiliated to Latin
+A Rede Latino-americana de Pesquisa NIME tem como objetivo proporcionar um espaço para compartilhar artifícios, ferramentas, tutoriais e repositórios científicos assim como apresentar trabalhos de seus integrantes. É também objetivo da Rede, organizar encontros e eventos que compartilharemos nesta página e em nossas plataformas de comunicação (entre em contato com os administradores para ter acesso a essas plataformas).
 
-American institutions1represent only 2.4% of the totalamount of participants of the first 20 NIME Conferenceeditions \(from 2001 to 2020\) \[3\]. In this workshop weaim to discuss ways of further visibilizing and fosteringNIME research in, by and for LATAM, echoing recent ef-forts from the wider LATAM Human-Computer Interac-tion research community \[4\]. Moreover, we primarily ex-pect to consolidate a LATAM NIME Research Communitythrough a series of actionable initiatives, such as creatinga LATAM NIME network, and exploring ways of makingNIME research more accessible, affordable and resource-ful in consideration of regional geopolitical and socioeco-nomic challenges, among other actions.
+Com a Rede Latino-americana de Pesquisa NIME pretendemos dar os primeiros passos em direção a uma Comunidade LATAM NIME dentro e fora da NIME. A Rede tem a intenção de proporcionar acessibilidade fortalecendo o diálogo entre outras comunidades na LATAM contribuindo para apoiar o desenvolvimento de pesquisadores e estudantes em nossas comunidades locais.
 
-We propose a Latin American \(LATAM\) New Interfaces for Musical Expression \(NIME\) Research Community. We aim to start a discussion and generate ideas around short-term actionable initiatives that a LATAM NIME Research Community could explore in the near future.
+### Contato
 
-We lookforward to taking the first steps towards a LATAM NIMECommunity and the future of this community within andbeyond NIME, opening to other communities in LATAM,and stirring policy changes to support the development ofour local communities.
-
+[Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
