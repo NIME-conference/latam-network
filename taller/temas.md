@@ -8,7 +8,7 @@ Proponemos una Red de Investigación NIME Latinoamérica, con la que aspiramos a
   * Organizar programas de mentoría 
 * **Explorar perspectivas NIME latinoamericanas: **
   * Decolonizar la investigación NIME 
-  * Hacer la investigación NIME más económicamente accessible. 
+  * Hacer la investigación NIME más económicamente accesible. 
 * **Pensar próximos pasos para NIME Latinoamérica: **
   * Alojar más ediciones de NIME en América Latina 
   * Organizar capítulos y grupos de NIME locales en América Latina (así como organizar eventos regulares locales y remotos). 
