@@ -10,6 +10,6 @@ Con esta red pretendemos dar los primeros pasos hacia la creación de una comuni
 
 ### Contacto
 
-[Juan Martinez Avila](mailto:psxjpma@nottingham.ac.uk)
+****[**Juan Martinez Avila**](mailto:psxjpma@nottingham.ac.uk)****
 
 ​
