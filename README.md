@@ -10,4 +10,4 @@ With this network we also aim to take the first steps towards a LATAM NIME Commu
 
 ### Contact
 
-[Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
+****[**Juan Martinez Avila**](mailto:psxjpma@nott.ac.uk)****
