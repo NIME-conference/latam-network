@@ -6,6 +6,36 @@ Historically, Latin America (LATAM) has produced many musics that have resonated
 
 In this [SBCM](https://compmus.org.br/2021/) workshop we aim to discuss ways of further visibilizing and fostering NIME research in, by and for LATAM, echoing recent efforts from the wider LATAM Human-Computer Interaction research community \[4]. Moreover, we primarily expect to consolidate a LATAM NIME Research Community through a series of actionable initiatives, such as creating a LATAM NIME network, and exploring ways of making NIME research more accessible, affordable and resourceful in consideration of regional geopolitical and socioeconomic challenges, among other actions and [topics of discussion](topics.md).
 
+Participation in the workshop is completely free and will take place on 10/27/2021 (Wednesday) from 9am to 1pm Brasilia time (UTC -3). It will be entirely online through the Zoom platform and you can register by filling out the form: [https://forms.gle/Ht8YnJpLHa8F5mUbA](https://forms.gle/Ht8YnJpLHa8F5mUbA). We will send you the event link a few days before the workshop.
+
+### Organisers
+
+Juan Pablo Martinez Avila - **Mexico** - Mixed Reality Lab, University of Nottingham - NIME officer for Diversity and Inclusion 
+
+João Tragtenberg - **Brasil** - Batebit Artesania Digital + Universidade Federal de Pernambuco 
+
+Filipe Calegario - **Brasil** - Centro de Informática / Universidade Federal de Pernambuco 
+
+Isabela Corintha - **Brasil** - Programa Doutoral / Multimédia em Educação - Universidade de Aveiro, Portugal 
+
+Martin Matus Lerner - **Argentina** - Universidad Nacional de Quilmes 
+
+Juan Ramos - **Argentina** - Universidad Nacional de Quilmes / CONICET 
+
+Teodoro Dannemann - **Chile** - Media and Arts / Technology PhD Programme, Queen Mary University of London/Bela 
+
+Javier Jaimovich - **Chile** - Facultad de Artes / Universidad de Chile 
+
+Ximena Alarcón - **Colombia** - Artista/Investigadora Independiente 
+
+Patricia Cadavid - **Colombia** - Interface Cultures, Kunstuniversität Linz 
+
+Adnan Marquez-Borbon - **Mexico** - Facultad de Artes, Universidad Autónoma de Baja California 
+
+Miguel Ortiz - **Mexico** - Sonic Arts Research Centre, Queen’s University Belfast 
+
+Hugo Solis - **Mexico** - Universidad Autónoma Metropolitana
+
 ### Citations
 
 \[1] Martin Matus Lerner. Latin American NIMEs: Electronic musical instruments and experimental sound devices in the twentieth century. In Marcelo Queiroz and Anna Xambó Sedó, editors, Proceedings of the International Conference on New Interfaces for Musical Expression, pages 228–233, Porto Alegre, Brazil, June 2019. UFRG
