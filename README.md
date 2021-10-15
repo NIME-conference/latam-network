@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/LatamNimeLogoBlack_.png
+coverY: -99.53703703703704
+---
+
 # About
 
 The Latin American NIME Research Network aims to provide a space to share resources, tutorials, and repositories from members of the community, as well as to showcase their works. We also look forward to organising meet ups and events which we will share in this webpage and our communication platforms (please contact the administrators to gain access to these platforms).  
