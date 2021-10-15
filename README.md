@@ -1,4 +1,6 @@
-# About
+# How are we?
+
+## To join our SBCM workshop visit this [link](workshop/home.md)
 
 ![Design by Patricia Cadavid](.gitbook/assets/LatamNimeLogoBlack\_.png)
 
