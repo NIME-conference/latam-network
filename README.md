@@ -1,6 +1,6 @@
 # ¿Quiénes somos?
 
-## Para participar en nuestro workshop the SBCM visita este [link](taller/inicio.md)
+## Para registrarse en nuestro workshop de SBCM visita este [link](taller/inicio.md)
 
 ![Diseño por Patricia Cadavid](.gitbook/assets/LatamNimeLogoBlack\_.png)
 
