@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sobre](README.md)
+* [Quem somos nós?](README.md)
 
 ## SBCM 2021 Workshop <a href="workshop" id="workshop"></a>
 
