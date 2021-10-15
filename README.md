@@ -10,4 +10,4 @@ Com a Rede Latino-americana de Pesquisa NIME pretendemos dar os primeiros passos
 
 ### Contato
 
-[Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
+****[**Juan Martinez Avila**](mailto:psxjpma@nott.ac.uk)****
