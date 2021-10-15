@@ -1,5 +1,7 @@
 # ¿Quiénes somos?
 
+## Para participar en nuestro workshop the SBCM visita este [link](taller/inicio.md)
+
 ![Diseño por Patricia Cadavid](.gitbook/assets/LatamNimeLogoBlack\_.png)
 
 La Red de Investigación NIME Latinoamérica tiene como objetivo proveer un espacio para compartir recursos, tutoriales y repositorios para miembros de la comunidad, así como para visibilizar su trabajo. También buscamos organizar encuentros y eventos que serán comunicados en esta página y mediante nuestras plataformas de comunicación (por favor, contactar a los administradores para acceder a estas plataformas).
