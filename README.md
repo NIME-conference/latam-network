@@ -1,7 +1,5 @@
 # Quem somos nós?
 
-## Para se inscrever no nosso workshop do SBCM, entre neste [link](workshop/pagina-inicial.md)
-
 ![Desenho por Patricia Cadavid](<.gitbook/assets/LatamNimeLogoBlack\_ (1).png>)
 
 A Rede Latino-americana de Pesquisa NIME tem como objetivo proporcionar um espaço para compartilhar artifícios, ferramentas, tutoriais e repositórios científicos assim como apresentar trabalhos de seus integrantes. É também objetivo da Rede, organizar encontros e eventos que compartilharemos nesta página e em nossas plataformas de comunicação (entre em contato com os administradores para ter acesso a essas plataformas).
