@@ -2,6 +2,8 @@
 
 The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-English speakers, to be onboarded in the NIME discourse. A mentor is expected to help a newcomer (mentee) positioning her/his work within the NIME discourse and the mentorship would result in a co-authored NIME submission.
 
+To participate as a mentor or mentee please visit this [link](https://diversity.nime.org/current-activites/mentorship-call-2023).
+
 **Si necesitas una traducción al Español por favor contacta a** [**psxjpma@nott.ac.uk**](https://emailto:psxjpma@nott.ac.uk)****
 
 **Se precisar de ajuda para traduzir este formulário em Português, contacte:** [**tragtenberg@gmail.com**](https://emailto:tragtenberg@gmail.com)****
