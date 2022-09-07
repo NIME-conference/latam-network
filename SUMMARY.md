@@ -3,7 +3,11 @@
 * [¿Quiénes somos?](README.md)
 * [Contáctanos](contactanos.md)
 
-## Taller SBCM 2021 <a href="taller" id="taller"></a>
+## Current Activities
+
+* [Llamada para Programa de Mentoría NIME](current-activities/llamada-para-programa-de-mentoria-nime.md)
+
+## Taller SBCM 2021 <a href="#taller" id="taller"></a>
 
 * [Inicio](taller/inicio.md)
 * [Código de Conducta](taller/cdc.md)
