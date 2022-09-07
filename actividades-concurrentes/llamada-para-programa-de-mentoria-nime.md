@@ -6,4 +6,4 @@ Se espera que l@s mentores/as ayuden a posicionar el trabajo del/la mentorad@ re
 
 Para participar como mentor@ o mentorad@ por favor visita este [link](https://diversity.nime.org/current-activites/mentorship-call-2023).
 
-**Si necesitas una traducción al Español por favor contacta a** [**psxjpma@nott.ac.uk**](https://emailto:psxjpma@nott.ac.uk)****
+**Si necesitas una traducción al Español por favor contacta a** [**psxjpma@nott.ac.uk**](<mailto:psxjpma@nott.ac.uk >)****
