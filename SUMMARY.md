@@ -3,9 +3,9 @@
 * [¿Quiénes somos?](README.md)
 * [Contáctanos](contactanos.md)
 
-## Current Activities
+## Actividades Concurrentes
 
-* [Llamada para Programa de Mentoría NIME](current-activities/llamada-para-programa-de-mentoria-nime.md)
+* [Llamada para Programa de Mentoría NIME](actividades-concurrentes/llamada-para-programa-de-mentoria-nime.md)
 
 ## Taller SBCM 2021 <a href="#taller" id="taller"></a>
 
